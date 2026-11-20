@@ -17,8 +17,8 @@
       "dest": "/assets/$1"
     },
     {
-      "src": "/api/bkcfdn.php",
-      "dest": "/api/bkcfdn.php"
+      "src": "/api/bdixd5.php",
+      "dest": "/api/bdixd5.php"
     },
     {
       "src": "/(.*)",
